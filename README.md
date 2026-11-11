@@ -1,10 +1,5 @@
 Language processing and cognition in neurotypical and clinical populations
 
-## Research Interests
+**Research Interests**
 
-- Language processing
-- Psycholinguistics
-- Neurolinguistics
-- Experimental methods
-- Statistical modeling
-- Computational approaches to language
+Language processing • Psycholinguistics • Neurolinguistics • Experimental methods • Eye tracking • Statistical modeling • Computational approaches to language
