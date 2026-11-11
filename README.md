@@ -1,5 +1,3 @@
-# Maura Panozzo Chiomento
-
 Language processing and cognition in neurotypical and clinical populations
 
 ## Research Interests
